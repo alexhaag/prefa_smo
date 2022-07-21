@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "prefa_smo",
+    "slug": "prefa_smo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
