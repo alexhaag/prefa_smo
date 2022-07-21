@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953361591542",
+    "project_id": "prefasmo",
+    "storage_bucket": "prefasmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953361591542:android:a8e91561b4e27adaa850d7",
+        "android_client_info": {
+          "package_name": "prefa.smo1592"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953361591542-dpnq0eqd7cqd4jk26b57f57fq4ns44er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQua4AlLsZa8s4uEhGdVG8wyyR2mSjp_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953361591542-dpnq0eqd7cqd4jk26b57f57fq4ns44er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
